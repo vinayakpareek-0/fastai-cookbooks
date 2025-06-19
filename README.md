@@ -1,2 +1,2 @@
 ## fastai-fastbook-practices
-Just my little playground for practicing fastbook code snippets and solving exercises — learning through implemention 🙆
+Just a little storeroom for fastai-fastbook learnings, with code practice and solutions to exercises — putting theory into practice.
